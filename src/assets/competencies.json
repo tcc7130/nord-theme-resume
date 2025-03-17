@@ -1,16 +1,11 @@
 [
   {
-    "label": "For the Business Side",
+    "label": "For the Technical Side",
     "competencies": [
-      "Publishing Domain Knowledge",
-      "Article review"
-    ]
-  },
-  {
-    "label": "For the Traveling Side",
-    "competencies": [
-      "Outer space culture",
-      "Management of the Unexpected"
+      "Programming Languages",
+      "System Analysis",
+      "Documentation",
+      "Version Control"
     ]
   }
 ]

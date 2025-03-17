@@ -1,67 +1,78 @@
 {
   "pdfUrl": "./cv.pdf",
   "me": {
-    "firstname": "Jone",
-    "lastname": "Dœuf",
-    "contact": "https://linkedin.com/in/42",
-    "spotlight": "Experienced Galactic Hitchhiker.",
-    "occupation": "Researcher"
+    "firstname": "Fernanda",
+    "lastname": "Olvera",
+    "contact": "https://www.linkedin.com/in/fernanda-olvera-castellanos-0b9b93122",
+    "spotlight": "Artist enthusiast",
+    "occupation": "Software Engineer Jr"
   },
   "about": {
-    "details": "Lorem ipsum dolor sit amet, <b>consectetur</b> adipiscing elit. Ut in pharetra mauris. Etiam a tortor ut quam eleifend pretium. Aliquam mauris lorem, rutrum sit amet odio vitae, tristique imperdiet urna. Integer tellus leo, faucibus vel ullamcorper quis, lobortis id neque. Vivamus vel lacinia justo, non fermentum turpis. Cras semper nibh eu urna ullamcorper, vitae volutpat ante viverra.",
-    "mantra": "Never Forget Your Towel!"
+    "details": "Professional with 5 years of experience in back end developing. I am looking to join a team where I can contribute my experience and continue developing my skills.",
+    "mantra": "Everything happens for a reason"
   },
   "languages": [
     {
-      "code": "gb",
+      "code": "mx",
+      "name": "Spanish",
+      "level": "Native"
+    },
+    {
+      "code": "us",
       "name": "English",
-      "level": "Professional"
+      "level": "Intermediate"
     }
   ],
   "education": [
     {
-      "location": "Betelgeuse V University",
-      "major": "Professional degree in writing jokes",
-      "years": "2002-2006"
+      "location": "CETYS University",
+      "major": "Computer Sciences",
+      "years": "2015-2019"
     }
   ],
   "hobbies": [
-    "Clean my Towel",
-    "Vogon Poetry"
+    "Reading",
+    "Painting",
+    "My kids"
   ],
   "companies": {
     "H2G2": {
-      "name": "Megadodo Publications",
-      "location": "Ursa Minor Beta"
+      "name": "Spark Technologies",
+      "location": "Mexicali, Mexico"
     }
   },
   "experiences": [
     {
-      "name": "Researcher",
+      "name": "Web Developer",
       "compagny": "H2G2",
-      "years": "2007-now",
-      "missionShort": "Writing articles for the Hitchhiker's Guide to the Galaxy",
-      "missionLong": [
-        "Writing articles for the Hitchhiker's Guide to the Galaxy",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in pharetra mauris. Etiam a tortor ut quam eleifend pretium. Aliquam mauris lorem, rutrum sit amet odio vitae, tristique imperdiet urna."
+      "years": "2019-now",
+      "missionShort": "Develop and mantain desktop and web systems",
+      "missionLong": [       
+        "Implemented RESTful APIs to integrate internal and external systems, improving interoperability across platforms",
+        "Developed and mantained responsive web applications using technologies such as HTML5, CSS3, JavaScript and frameworks such as MVC5.",
+        "Worked as part of a team to implement new features on a ERP.",
+        "Optimize website performance, reducing load times by 40% using image compression and code minification tecniques.",
+        "Designed and integrated SOAP services into enterprise applications, using technologies such as .NET to create secure and scalable web service interfaces."
       ],
-      "missions": [
-        "Travel in the Galaxy",
-        "Write Articles",
-        "Don't Panic"
+      "missions": [ "Deliver tasks in time"
       ],
       "additionals": [
         {
-          "label": "Trainings",
+          "label": "Certifications",
           "details": [
-            "Babel Fish implantation"
+            "AZ-900 Azure Fundamentals"
           ]
         },
         {
-          "label": "Ability",
+          "label": "Soft skills",
           "details": [
-            "Towel Jujutsu",
-            "Thumb up"
+            "Communication", "Team work", "Problem solving", "Time management"
+          ]
+        },
+        {
+          "label": "Hard skills",
+          "details":[
+            "Git", "GitHub", "HTML", "JavaScript", "Postman", "SQL"
           ]
         }
       ]

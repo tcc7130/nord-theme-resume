@@ -1,37 +1,97 @@
 [
   {
-    "name": "Writings",
+    "name": "DevOps",
     "skills": [
       {
-        "name": "Situation Analysing",
+        "name": "Bash",
         "level": 1,
-        "details": "Understanding what happens"
-      },
-      {
-        "name": "Summarizing",
-        "level": 2,
-        "details": "Can reduce a complex situation to few words"
+        "details": "Common commands knowledge and also creation of scripts"
       }
     ]
   },
   {
-    "name": "Survival",
+    "name": "BackEnd",
     "skills": [
       {
-        "name": "Galactic Hitchhiker",
-        "level": 3,
-        "details": "Thumb up"
-      },
-      {
-        "name": "Babel Fish",
-        "level": 4,
-        "details": "Hear any language"
-      },
-      {
-        "name": "Towel mastering",
+        "name": "C# .Net",
         "level": 5,
-        "details": "drape myself, hand-to-hand combat, hood my head..."
+        "details": "Can create website from scratch"
+      },
+      {
+        "name": "Python",
+        "level": 2,
+        "details": "Familiar with semantics and code flow"
+      },
+      {
+        "name": "PHP",
+        "level": 2,
+        "details": "Took multiple courses"
       }
+    ]
+  },
+  {
+    "name": "FrontEnd",
+    "skills":[
+      {
+        "name": "HTML",
+        "level": 5,
+        "details": "Structure web content semantically"
+      },
+      {
+        "name": "CSS",
+        "level": 5,
+        "details": "Style and layout web pages"
+      },
+      {
+        "name": "JavaScript",
+        "level": 5,
+        "details": "Write clear and maintanable code"
+      },
+      {
+        "name": "React",
+        "level": 1,
+        "details": "Familiar with component-based UI"
+      },
+      {
+        "name": "Bootstrap",
+        "level": 3,
+        "details": "Confortable using their components for fast developing"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "skills":[
+      {
+        "name": "SOAP",
+        "level": 3,
+        "details": "Experience designing and implementing SOAP services"
+      },
+      {
+        "name": "RESTful API",
+        "level": 3,
+        "details": "Understanding of APIs to integrate web services"
+      },
+      {
+        "name": "SQL",
+        "level": 5,
+        "details": "Query and manipulate relational data"
+      },
+      {
+        "name": "Git",
+        "level": 3,
+        "details": "Experience with most used commands"
+      },
+      {
+        "name": "Jira",
+        "level": 3,
+        "details": "Track project progress and create issues"
+      },
+      {
+        "name": "DevExpress",
+        "level": 5,
+        "details": "Vast experience using their components"
+      }      
     ]
   }
 ]
